@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "GSW140A3MC_S_LMHB")(type "KiCad")(uri "${KIPRJMOD}/Library/GSW140A3MC_S_LMHB")(options "")(descr ""))
+  (lib (name "TYPE-C-31-M-12")(type "KiCad")(uri "${KIPRJMOD}/Library/TYPE-C-31-M-12")(options "")(descr ""))
+  (lib (name "ABM8G-25.000MHZ-B4Y-T")(type "KiCad")(uri "${KIPRJMOD}/Library/ABM8G-25.000MHZ-B4Y-T")(options "")(descr ""))
+)

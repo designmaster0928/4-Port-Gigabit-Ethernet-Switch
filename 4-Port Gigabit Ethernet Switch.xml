@@ -1,0 +1,2277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>E:\2023\9\4-Port Gigabit Ethernet Switch\4-Port Gigabit Ethernet Switch.kicad_sch</source>
+    <date>9/8/2023 11:17:13 PM</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>4-Port Gigabit Ethernet Switch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0c893eb-3d55-420d-9936-17408f9bca6e</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc31da39-2219-4eaf-8449-baa15e41ba4f</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b51d385b-b835-43cc-b7f1-185ba7a400af</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a7ebebf-458d-4c17-aade-79a68df35d5a</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>15pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C106997</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C106997"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8d7bfea-3a4e-477e-9636-fb259ef2ad5b</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>15pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C106997</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C106997"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a05e6ec1-f453-401c-9af2-bc0e6ca93ef7</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF/25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C89831</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C89831"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abce016b-cdbb-4ed8-b0ee-b6052db7e1c8</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uF/25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C89831</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C89831"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43774f1e-5e28-4aa0-8889-5009401f5fb8</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cad4f7c-40ae-4501-bf45-5a65826e7f51</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C14664</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C14664"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3480562e-6d1c-45d8-92e1-8d950f9e32ba</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15b417bc-f0b0-4ba1-961c-efa12863d847</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>10uF/25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C89831</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C89831"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc7f48b6-bc41-41ce-a112-fa87754dfebb</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>10uF/25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C89831</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C89831"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b9127da-8d1b-468b-8971-e565e5c17b29</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>10uF/25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C89831</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C89831"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06940aae-9a16-4dd4-8589-3bf4d2fcad89</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10uF/25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C89831</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C89831"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>915fcdd0-1ac1-4cc7-9596-b0a6dcc009f9</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed945ce2-3671-47a8-bf10-0ef39626a30b</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10uF/25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C89831</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C89831"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c999fe67-a689-459d-9ccf-4596e1a03e58</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>10uF/25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C89831</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C89831"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>676e9e3c-610f-442d-9921-d4419bc1b2e5</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>359292e0-5931-4a1a-b873-bd738acf1be8</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>227b577a-ab22-4e07-8c84-b18a5cb5af0d</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5ba57ac-0a64-4391-aa06-636f32fc6b88</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b448c9c5-4c4d-49fd-83e0-a9f40dbbe8f1</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5893b1aa-64c4-4dbd-9d54-16fd9bff8e57</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29bcfa3c-50e0-48da-b44c-d959ba34a07f</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2f2e6e7-23ba-431f-aac1-e5719cca26da</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5352bf41-a2cc-4d62-908d-e0b3a7283fef</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c57ae662-11ac-4598-8169-d6a657eaf514</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04e9e7bc-4f9f-409d-9393-8b662b34e200</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36951f79-a69d-44c2-a7cf-b0979c059c9f</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b6662b9-a4f7-41f2-a1a4-c985ce6aab3e</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6a4a25b-346f-4fd9-a745-9d582cfc1139</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54423663-5116-41d1-8610-c912217fe07c</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c05fe18b-8c76-4367-ac3d-8b9a53ed6f5f</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd836649-a25d-4b86-a5f9-8a05b9f22f96</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c96bd81f-fadf-4850-b47e-3f305be36e79</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ab1273f-72f9-4411-955a-07f58fe8ab1a</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4279a3da-c34e-453a-870f-3a2cf804ed7a</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dfb1b0a-54b0-4d3f-967f-bb5333c34996</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ae37d43-7a24-474c-9a2a-b87fa6bcab8a</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4afcdff5-7957-4836-9585-6ba2de35b068</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6de14e56-bb18-4dd1-bac1-6ebfcaccb44e</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105883</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b055a9c1-bde8-450b-bd99-5d654fb5bddb</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>FerriteBead</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C14709</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="LCSC" value="C14709"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>244bd878-7f8d-4d29-b1b1-9372234f5eb6</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>RB1-125B8G1A</value>
+      <footprint>Connector_RJ:RJ45_UDE_RB1-125B8G1A</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C363353</field>
+      </fields>
+      <libsource lib="Connector" part="RJ45_RB1-125B8G1A" description="LAN Transformer Jack, RJ45, 10/100/1000 BaseT"/>
+      <property name="LCSC" value="C363353"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="LAN Transformer Jack, RJ45, 10/100/1000 BaseT"/>
+      <property name="ki_keywords" value="lan jack socket transformer ethernet gigabit 10 100 1000 baset"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81e67ce0-3569-40d9-9225-bbe5845c3ed8</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>RB1-125B8G1A</value>
+      <footprint>Connector_RJ:RJ45_UDE_RB1-125B8G1A</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C363353</field>
+      </fields>
+      <libsource lib="Connector" part="RJ45_RB1-125B8G1A" description="LAN Transformer Jack, RJ45, 10/100/1000 BaseT"/>
+      <property name="LCSC" value="C363353"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="LAN Transformer Jack, RJ45, 10/100/1000 BaseT"/>
+      <property name="ki_keywords" value="lan jack socket transformer ethernet gigabit 10 100 1000 baset"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f14849d1-ccd9-4d76-9ebe-f7917a29b3d8</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>RB1-125B8G1A</value>
+      <footprint>Connector_RJ:RJ45_UDE_RB1-125B8G1A</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C363353</field>
+      </fields>
+      <libsource lib="Connector" part="RJ45_RB1-125B8G1A" description="LAN Transformer Jack, RJ45, 10/100/1000 BaseT"/>
+      <property name="LCSC" value="C363353"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="LAN Transformer Jack, RJ45, 10/100/1000 BaseT"/>
+      <property name="ki_keywords" value="lan jack socket transformer ethernet gigabit 10 100 1000 baset"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6333e7c-f6d8-407c-aa6f-e6a924d83b16</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>RB1-125B8G1A</value>
+      <footprint>Connector_RJ:RJ45_UDE_RB1-125B8G1A</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C363353</field>
+      </fields>
+      <libsource lib="Connector" part="RJ45_RB1-125B8G1A" description="LAN Transformer Jack, RJ45, 10/100/1000 BaseT"/>
+      <property name="LCSC" value="C363353"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="LAN Transformer Jack, RJ45, 10/100/1000 BaseT"/>
+      <property name="ki_keywords" value="lan jack socket transformer ethernet gigabit 10 100 1000 baset"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92623f69-c2fe-45f9-a9b3-da6735afff10</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>TYPE-C-31-M-12</value>
+      <footprint>TYPE-C-31-M-12:HRO_TYPE-C-31-M-12</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=eda</field>
+        <field name="Description">
+USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS
+</field>
+        <field name="LCSC">C165948</field>
+        <field name="MANUFACTURER">HRO Electronics Co., Ltd.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.26 mm</field>
+        <field name="MF">HRO Electronics Co., Ltd.</field>
+        <field name="MP">TYPE-C-31-M-12</field>
+        <field name="PARTREV">2020.12.08</field>
+        <field name="Package">Package</field>
+        <field name="Price">None</field>
+        <field name="SNAPEDA_PN">TYPE-C-31-M-12</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="TYPE-C-31-M-12" part="TYPE-C-31-M-12" description=""/>
+      <property name="MF" value="HRO Electronics Co., Ltd."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.26 mm"/>
+      <property name="Package" value="Package"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="2020.12.08"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=snap"/>
+      <property name="MP" value="TYPE-C-31-M-12"/>
+      <property name="Description" value="&#xA;USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS&#xA;"/>
+      <property name="SNAPEDA_PN" value="TYPE-C-31-M-12"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="MANUFACTURER" value="HRO Electronics Co., Ltd."/>
+      <property name="LCSC" value="C165948"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b059da38-e799-4fab-9be1-0e033c2c7a39</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>15uH</value>
+      <footprint>Inductor_SMD:L_Bourns-SRN4018</footprint>
+      <fields>
+        <field name="LCSC">C6235060</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="LCSC" value="C6235060"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba5c4126-2fd3-4c57-a3f2-48500a83991a</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>0.47uH</value>
+      <footprint>Inductor_SMD:L_Taiyo-Yuden_MD-2020</footprint>
+      <fields>
+        <field name="LCSC">C222833</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="LCSC" value="C222833"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9ed25a8-9a10-42b5-8370-38a074abfb6a</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C106232</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C106232"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b567ff1-6b27-4fe4-81c1-003a9f1e4d8e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C106232</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C106232"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b4d34db-771c-444a-90fd-17709241830e</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C106232</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C106232"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>081cdaa0-576a-49c0-87e1-e1bb46c928f0</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C106232</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C106232"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3372e392-c4a6-40ba-8de9-83c2650e838a</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C106232</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C106232"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca50918f-6509-47f8-91fd-d3eb531c623f</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C106232</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C106232"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02c35cf8-f5a8-4b44-942a-ea13d0084518</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C106232</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C106232"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91a13e6d-711f-41b6-8d23-4b0834b5b0bb</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C106232</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C106232"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f28f73c1-3c62-4b31-8003-ccaa5901e3a7</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105872</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C105872"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5521062-bf66-4eb0-9944-8c4285919d8e</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C105872</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C105872"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db936a1e-6012-4037-a481-332a7ea754e5</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60490</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af3baf6c-a394-44da-b1ad-d6f7282af345</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>31.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C276265</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C276265"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c2b92c9-75a1-49bb-af63-744f73d5e2d0</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60490</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>492b5cdf-918a-4b62-a2b7-725d58237641</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60490</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e830a5f9-5d21-4e0e-bef3-631eb0ab42af</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60490</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a53b61d-8ba9-4203-82a9-6812642f07da</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>12.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C132157</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C132157"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a265690-59a3-4908-ab06-879c02afc9eb</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60490</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65c754ac-b061-4e9b-9786-2f0251b34d4d</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60490</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46b430fb-3a5a-4c86-a709-391d89586759</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60490</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>392bbbab-5b62-4d3a-aeba-0076d32fc915</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60490</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4373e6bb-44f2-4011-b4c7-f0bef2ae94d9</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60490</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e525b802-3baa-44d6-94c1-d50fc446d03c</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60490</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3d26695-2e89-449f-8dc9-bbff6563ad67</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60490</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c1aeeb1-08f4-454b-ba15-e7e976b6a599</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60490</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad059488-f606-419c-9bf6-644d3a0b1f2f</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60490</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c289e673-4b42-4526-b861-05b8f97397fc</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK</footprint>
+      <fields>
+        <field name="LCSC">C455281</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="LCSC" value="C455281"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d47a354-5f9b-4589-bb3c-dec57936a96d</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>GSW140A3MC_S_LMHB</value>
+      <footprint>GSW140A3MC_S_LMHB:XCVR_GSW140A3MC_S_LMHB</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/GSW140A3MC%20S%20LMHB/MaxLinear%252C+Inc./view-part/?ref=eda</field>
+        <field name="Description">
+Ethernet ICs DEVICE CON GSW140A3MC MRQFN105 SLMHB CO
+</field>
+        <field name="LCSC">C7501892</field>
+        <field name="MANUFACTURER">MaxLinear</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.85mm</field>
+        <field name="MF">MaxLinear, Inc.</field>
+        <field name="MP">GSW140A3MC S LMHB</field>
+        <field name="PARTREV">1.11mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="SNAPEDA_PN">GSW140A3MC S LMHB</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/GSW140A3MC%20S%20LMHB/MaxLinear%252C+Inc./view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="GSW140A3MC_S_LMHB" part="GSW140A3MC_S_LMHB" description=""/>
+      <property name="MF" value="MaxLinear, Inc."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.85mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/GSW140A3MC%20S%20LMHB/MaxLinear%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="1.11mm"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/GSW140A3MC%20S%20LMHB/MaxLinear%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="GSW140A3MC S LMHB"/>
+      <property name="Description" value="&#xA;Ethernet ICs DEVICE CON GSW140A3MC MRQFN105 SLMHB CO&#xA;"/>
+      <property name="MANUFACTURER" value="MaxLinear"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="SNAPEDA_PN" value="GSW140A3MC S LMHB"/>
+      <property name="LCSC" value="C7501892"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c52ca21-dcb9-4174-936b-0a77310c7cd0 8140a372-41f5-4d2b-87f9-f4bec01d37b7 aea25018-40e9-41c1-af31-f3cedf349e33 4b9dd8f8-26e1-48ab-994d-ed84d4a3557a 68e5ee25-2294-4673-9fc4-f6215466ec9e 6eb6076b-d619-4ca0-b35a-0e57b565c2aa 4404ed7b-5507-47f3-8b0c-eef27a3aaf13</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MCP16311T-E/MNY</value>
+      <footprint>Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20005255B.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C510882</field>
+      </fields>
+      <libsource lib="Regulator_Switching" part="MCP16311MNY" description="1A Output Voltage, 30V Input, integrated switch step-down regulator, PFM/PWM modulation, DFN-8"/>
+      <property name="LCSC" value="C510882"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="1A Output Voltage, 30V Input, integrated switch step-down regulator, PFM/PWM modulation, DFN-8"/>
+      <property name="ki_keywords" value="switching buck converter power-supply voltage regulator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>594d17a8-8091-4dac-99f5-bdd57bd9dd1b</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TPS62822DLCR</value>
+      <footprint>Package_DFN_QFN:Texas_VSON-HR-8_1.5x2mm_P0.5mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tps62823.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C473385</field>
+      </fields>
+      <libsource lib="Regulator_Switching" part="TPS62822DLC" description="2A Step-Down Converter with DCS-Control, adjustable output, 2.4-5.5V input voltage, QFN-8"/>
+      <property name="LCSC" value="C473385"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <property name="ki_description" value="2A Step-Down Converter with DCS-Control, adjustable output, 2.4-5.5V input voltage, QFN-8"/>
+      <property name="ki_keywords" value="step-down dc-dc buck regulator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2643878-1083-43ea-9ef3-1f3a8457ce5f</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>ABM8G-25.000MHZ-B4Y-T</value>
+      <footprint>ABM8G-25.000MHZ-B4Y-T:XTAL_ABM8G-25.000MHZ-B4Y-T</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ABM8G-25.000MHZ-B4Y-T/Abracon+LLC/view-part/?ref=eda</field>
+        <field name="Description">
+25 MHz ±30ppm Crystal 10pF 60 Ohms 4-SMD, No Lead
+</field>
+        <field name="LCSC">C596913</field>
+        <field name="MANUFACTURER">Abracon</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.0 mm</field>
+        <field name="MF">Abracon</field>
+        <field name="MP">ABM8G-25.000MHZ-B4Y-T</field>
+        <field name="PARTREV">08.13.15</field>
+        <field name="Package">SMD-4 Abracon</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=375530&amp;manufacturer=Abracon&amp;part_name=ABM8G-25.000MHZ-B4Y-T&amp;search_term=abm8g-25.000mhz-b4y-t</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ABM8G-25.000MHZ-B4Y-T/Abracon+LLC/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ABM8G-25.000MHZ-B4Y-T" part="ABM8G-25.000MHZ-B4Y-T" description=""/>
+      <property name="MF" value="Abracon"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.0 mm"/>
+      <property name="Package" value="SMD-4 Abracon"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ABM8G-25.000MHZ-B4Y-T/Abracon+LLC/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="08.13.15"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ABM8G-25.000MHZ-B4Y-T/Abracon+LLC/view-part/?ref=snap"/>
+      <property name="MP" value="ABM8G-25.000MHZ-B4Y-T"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=375530&amp;manufacturer=Abracon&amp;part_name=ABM8G-25.000MHZ-B4Y-T&amp;search_term=abm8g-25.000mhz-b4y-t"/>
+      <property name="Description" value="&#xA;25 MHz ±30ppm Crystal 10pF 60 Ohms 4-SMD, No Lead&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Abracon"/>
+      <property name="LCSC" value="C596913"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4-Port Gigabit Ethernet Switch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a15d4347-5a0d-454b-849b-5585aa565edd</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="ABM8G-25.000MHZ-B4Y-T" part="ABM8G-25.000MHZ-B4Y-T">
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">ABM8G-25.000MHZ-B4Y-T</field>
+        <field name="Footprint">ABM8G-25.000MHZ-B4Y-T:XTAL_ABM8G-25.000MHZ-B4Y-T</field>
+        <field name="MF">Abracon</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.0 mm</field>
+        <field name="Package">SMD-4 Abracon</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ABM8G-25.000MHZ-B4Y-T/Abracon+LLC/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">08.13.15</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ABM8G-25.000MHZ-B4Y-T/Abracon+LLC/view-part/?ref=snap</field>
+        <field name="MP">ABM8G-25.000MHZ-B4Y-T</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=375530&amp;manufacturer=Abracon&amp;part_name=ABM8G-25.000MHZ-B4Y-T&amp;search_term=abm8g-25.000mhz-b4y-t</field>
+        <field name="Description">
+25 MHz ±30ppm Crystal 10pF 60 Ohms 4-SMD, No Lead
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Abracon</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="RJ45_RB1-125B8G1A">
+      <description>LAN Transformer Jack, RJ45, 10/100/1000 BaseT</description>
+      <docs>https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf</docs>
+      <footprints>
+        <fp>RJ45*UDE*RB1*125B8G1A*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">RJ45_RB1-125B8G1A</field>
+        <field name="Footprint">Connector_RJ:RJ45_UDE_RB1-125B8G1A</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf</field>
+      </fields>
+      <pins>
+        <pin num="L1" name="" type="passive"/>
+        <pin num="L2" name="" type="passive"/>
+        <pin num="L3" name="" type="passive"/>
+        <pin num="L4" name="" type="passive"/>
+        <pin num="R1" name="CT" type="passive"/>
+        <pin num="R2" name="TD1+" type="passive"/>
+        <pin num="R3" name="TD1-" type="passive"/>
+        <pin num="R4" name="TD2+" type="passive"/>
+        <pin num="R5" name="TD2-" type="passive"/>
+        <pin num="R6" name="TD3+" type="passive"/>
+        <pin num="R7" name="TD3-" type="passive"/>
+        <pin num="R8" name="TD4+" type="passive"/>
+        <pin num="R9" name="TD4-" type="passive"/>
+        <pin num="R10" name="GND" type="power_in"/>
+        <pin num="SH" name="SH" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead">
+      <description>Ferrite bead</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="GSW140A3MC_S_LMHB" part="GSW140A3MC_S_LMHB">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">GSW140A3MC_S_LMHB</field>
+        <field name="Footprint">GSW140A3MC_S_LMHB:XCVR_GSW140A3MC_S_LMHB</field>
+        <field name="MF">MaxLinear, Inc.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.85mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/GSW140A3MC%20S%20LMHB/MaxLinear%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">1.11mm</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/GSW140A3MC%20S%20LMHB/MaxLinear%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">GSW140A3MC S LMHB</field>
+        <field name="Description">
+Ethernet ICs DEVICE CON GSW140A3MC MRQFN105 SLMHB CO
+</field>
+        <field name="MANUFACTURER">MaxLinear</field>
+        <field name="Availability">Not in stock</field>
+        <field name="SNAPEDA_PN">GSW140A3MC S LMHB</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="G2_TPIDN" type="bidirectional"/>
+        <pin num="A2" name="TRSTN" type="input"/>
+        <pin num="A4" name="GPIO16/LED00" type="bidirectional"/>
+        <pin num="A6" name="GPIO17/LED10/TDO" type="bidirectional"/>
+        <pin num="A8" name="GPIO18/LED20/TDI" type="bidirectional"/>
+        <pin num="A10" name="GPIO19/LED30/TMS" type="bidirectional"/>
+        <pin num="A12" name="GPIO20/LED40/TCK" type="bidirectional"/>
+        <pin num="A13" name="GPIO30/LED42" type="bidirectional"/>
+        <pin num="A14" name="G3_TPIAN" type="bidirectional"/>
+        <pin num="A15" name="G3_TPIBN" type="bidirectional"/>
+        <pin num="A17" name="G3_TPIDP" type="bidirectional"/>
+        <pin num="A19" name="TX0_M" type="output"/>
+        <pin num="A21" name="NC" type="no_connect"/>
+        <pin num="A23" name="VDDQ" type="power_in"/>
+        <pin num="A25" name="GPIO9/MSCS" type="bidirectional"/>
+        <pin num="A26" name="GPIO7/MSDO/PWLED" type="bidirectional"/>
+        <pin num="A27" name="GPIO1/GPC1/EXINT1/MMDC" type="bidirectional"/>
+        <pin num="A28" name="GPIO4/SSCK/SMDC/LIGHT" type="bidirectional"/>
+        <pin num="A30" name="GPIO2/SSDI/URXD" type="bidirectional"/>
+        <pin num="A32" name="RGMII5_TXD1" type="output"/>
+        <pin num="A34" name="RGMII5_TXC" type="output"/>
+        <pin num="A36" name="RGMII5_RXD1" type="input"/>
+        <pin num="A38" name="RGMII5_RX_CTL" type="input"/>
+        <pin num="A39" name="G0_TPIAN" type="bidirectional"/>
+        <pin num="A40" name="G0_TPIBN" type="bidirectional"/>
+        <pin num="A41" name="G0_TPICN" type="bidirectional"/>
+        <pin num="A43" name="G1_TPIAP" type="bidirectional"/>
+        <pin num="A45" name="G1_TPIBN" type="bidirectional"/>
+        <pin num="A47" name="G1_TPICN" type="bidirectional"/>
+        <pin num="A49" name="G2_TPIAP" type="bidirectional"/>
+        <pin num="A51" name="G2_TPIBN" type="bidirectional"/>
+        <pin num="A52" name="G2_TPICN" type="bidirectional"/>
+        <pin num="B1" name="RCAL" type="bidirectional"/>
+        <pin num="B2" name="NC" type="no_connect"/>
+        <pin num="B3" name="HRSTN" type="input"/>
+        <pin num="B4" name="GPIO21/LED01" type="bidirectional"/>
+        <pin num="B5" name="GPIO26/LED02/LIGHT" type="bidirectional"/>
+        <pin num="B6" name="GPIO22/LED11" type="bidirectional"/>
+        <pin num="B7" name="GPIO27/LED12" type="bidirectional"/>
+        <pin num="B8" name="GPIO23/LED21" type="bidirectional"/>
+        <pin num="B9" name="GPIO28/LED22" type="bidirectional"/>
+        <pin num="B10" name="GPIO24/LED31" type="bidirectional"/>
+        <pin num="B11" name="GPIO29/LED32" type="bidirectional"/>
+        <pin num="B12" name="GPIO25/LED41" type="bidirectional"/>
+        <pin num="B13" name="G3_TPIBP" type="bidirectional"/>
+        <pin num="B14" name="G3_TPICP" type="bidirectional"/>
+        <pin num="B15" name="G3_TPICN" type="bidirectional"/>
+        <pin num="B16" name="G3_TPIDN" type="bidirectional"/>
+        <pin num="B17" name="RESREF" type="output"/>
+        <pin num="B18" name="TX0_P" type="output"/>
+        <pin num="B19" name="VDDS" type="power_in"/>
+        <pin num="B20" name="RX0_P" type="input"/>
+        <pin num="B21" name="RX0_M" type="input"/>
+        <pin num="B22" name="XTAL1/CLK" type="input"/>
+        <pin num="B23" name="XTAL2" type="output"/>
+        <pin num="B24" name="GPIO6/MSDI/LIGHT" type="bidirectional"/>
+        <pin num="B25" name="GPIO0/GPC0/EXINT0/MMDIO" type="bidirectional"/>
+        <pin num="B26" name="GPIO5/SSCS/SMDIO/PWLED" type="bidirectional"/>
+        <pin num="B27" name="GPIO3/SSDO/UTXD" type="bidirectional"/>
+        <pin num="B28" name="RGMII5_TX_CTL" type="output"/>
+        <pin num="B29" name="RGMII5_TXD0" type="output"/>
+        <pin num="B30" name="RGMII5_TXD2" type="output"/>
+        <pin num="B31" name="RGMII5_TXD3" type="output"/>
+        <pin num="B32" name="RGMII5_RXC" type="input"/>
+        <pin num="B33" name="RGMII5_RXD0" type="input"/>
+        <pin num="B34" name="RGMII5_RXD2" type="input"/>
+        <pin num="B35" name="RGMII5_RXD3" type="input"/>
+        <pin num="B36" name="G0_TPIAP" type="bidirectional"/>
+        <pin num="B37" name="G0_TPICP" type="bidirectional"/>
+        <pin num="B38" name="G0_TPIDP" type="bidirectional"/>
+        <pin num="B39" name="G0_TPIDN" type="bidirectional"/>
+        <pin num="B40" name="G1_TPIAN" type="bidirectional"/>
+        <pin num="B41" name="G1_TPIBP" type="bidirectional"/>
+        <pin num="B42" name="VDDL" type="power_in"/>
+        <pin num="B43" name="G1_TPICP" type="bidirectional"/>
+        <pin num="B44" name="G1_TPIDP" type="bidirectional"/>
+        <pin num="B45" name="G1_TPIDN" type="bidirectional"/>
+        <pin num="B46" name="G2_TPIAN" type="bidirectional"/>
+        <pin num="B47" name="G2_TPIBP" type="bidirectional"/>
+        <pin num="B48" name="G2_TPICP" type="bidirectional"/>
+        <pin num="C2" name="VDD" type="power_in"/>
+        <pin num="C4" name="VDD" type="power_in"/>
+        <pin num="C6" name="VDDP" type="power_in"/>
+        <pin num="C8" name="VDDP" type="power_in"/>
+        <pin num="C10" name="VDDH" type="power_in"/>
+        <pin num="C12" name="VDDL" type="power_in"/>
+        <pin num="C14" name="VDDH" type="power_in"/>
+        <pin num="C15" name="VDDS" type="power_in"/>
+        <pin num="C17" name="VDDA" type="power_in"/>
+        <pin num="C19" name="VDDP" type="power_in"/>
+        <pin num="C21" name="VDDP" type="power_in"/>
+        <pin num="C23" name="VDD" type="power_in"/>
+        <pin num="C25" name="VDD" type="power_in"/>
+        <pin num="C26" name="VDDR" type="power_in"/>
+        <pin num="C28" name="VDDR" type="power_in"/>
+        <pin num="C31" name="VDDH" type="power_in"/>
+        <pin num="C33" name="VDDL" type="power_in"/>
+        <pin num="C34" name="VDDH" type="power_in"/>
+        <pin num="C36" name="VDDH" type="power_in"/>
+        <pin num="C37" name="VDDL" type="power_in"/>
+        <pin num="C39" name="VDDH" type="power_in"/>
+        <pin num="D1" name="G2_TPIDP" type="bidirectional"/>
+        <pin num="D2" name="G3_TPIAP" type="bidirectional"/>
+        <pin num="D3" name="GPIO8/MSCK" type="bidirectional"/>
+        <pin num="D4" name="G0_TPIBP" type="bidirectional"/>
+        <pin num="EPAD" name="VSS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="MCP16311MNY">
+      <description>1A Output Voltage, 30V Input, integrated switch step-down regulator, PFM/PWM modulation, DFN-8</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/20005255B.pdf</docs>
+      <footprints>
+        <fp>DFN*1EP*3x2mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP16311MNY</field>
+        <field name="Footprint">Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/20005255B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vfb" type="input"/>
+        <pin num="2" name="Vcc" type="power_out"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="Vin" type="power_in"/>
+        <pin num="5" name="PGND" type="power_in"/>
+        <pin num="6" name="SW" type="power_out"/>
+        <pin num="7" name="BOOST" type="output"/>
+        <pin num="8" name="AGND" type="power_in"/>
+        <pin num="9" name="PAD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="TPS62822DLC">
+      <description>2A Step-Down Converter with DCS-Control, adjustable output, 2.4-5.5V input voltage, QFN-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tps62823.pdf</docs>
+      <footprints>
+        <fp>Texas*VSON*HR*1.5x2mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS62822DLC</field>
+        <field name="Footprint">Package_DFN_QFN:Texas_VSON-HR-8_1.5x2mm_P0.5mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tps62823.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="input"/>
+        <pin num="2" name="FB" type="input"/>
+        <pin num="3" name="AGND" type="power_in"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="PGND" type="power_in"/>
+        <pin num="6" name="SW" type="power_out"/>
+        <pin num="7" name="VIN" type="power_in"/>
+        <pin num="8" name="PG" type="open_collector"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TYPE-C-31-M-12" part="TYPE-C-31-M-12">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TYPE-C-31-M-12</field>
+        <field name="Footprint">TYPE-C-31-M-12:HRO_TYPE-C-31-M-12</field>
+        <field name="MF">HRO Electronics Co., Ltd.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.26 mm</field>
+        <field name="Package">Package</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">2020.12.08</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=snap</field>
+        <field name="MP">TYPE-C-31-M-12</field>
+        <field name="Description">
+USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS
+</field>
+        <field name="SNAPEDA_PN">TYPE-C-31-M-12</field>
+        <field name="Availability">Not in stock</field>
+        <field name="MANUFACTURER">HRO Electronics Co., Ltd.</field>
+      </fields>
+      <pins>
+        <pin num="A1_B12" name="GND" type="power_in"/>
+        <pin num="A4_B9" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="DP1" type="bidirectional"/>
+        <pin num="A7" name="DN1" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="B1_A12" name="GND" type="power_in"/>
+        <pin num="B4_A9" name="VBUS" type="power_in"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="DP2" type="bidirectional"/>
+        <pin num="B7" name="DN2" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD" type="passive"/>
+        <pin num="S3" name="SHIELD" type="passive"/>
+        <pin num="S4" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="ABM8G-25.000MHZ-B4Y-T">
+      <uri>E:\2023\9\4-Port Gigabit Ethernet Switch/Library/ABM8G-25.000MHZ-B4Y-T/ABM8G-25.000MHZ-B4Y-T.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="GSW140A3MC_S_LMHB">
+      <uri>E:\2023\9\4-Port Gigabit Ethernet Switch/Library/GSW140A3MC_S_LMHB/GSW140A3MC_S_LMHB.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Switching.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="TYPE-C-31-M-12">
+      <uri>E:\2023\9\4-Port Gigabit Ethernet Switch/Library/TYPE-C-31-M-12/TYPE-C-31-M-12.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+1V1">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U1" pin="B19" pinfunction="VDDS" pintype="power_in"/>
+      <node ref="U1" pin="B42" pinfunction="VDDL" pintype="power_in"/>
+      <node ref="U1" pin="C12" pinfunction="VDDL" pintype="power_in"/>
+      <node ref="U1" pin="C15" pinfunction="VDDS" pintype="power_in"/>
+      <node ref="U1" pin="C2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="C23" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="C25" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="C33" pinfunction="VDDL" pintype="power_in"/>
+      <node ref="U1" pin="C37" pinfunction="VDDL" pintype="power_in"/>
+      <node ref="U1" pin="C4" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+3V3">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="C10" pinfunction="VDDH" pintype="power_in"/>
+      <node ref="U1" pin="C14" pinfunction="VDDH" pintype="power_in"/>
+      <node ref="U1" pin="C19" pinfunction="VDDP" pintype="power_in"/>
+      <node ref="U1" pin="C21" pinfunction="VDDP" pintype="power_in"/>
+      <node ref="U1" pin="C26" pinfunction="VDDR" pintype="power_in"/>
+      <node ref="U1" pin="C28" pinfunction="VDDR" pintype="power_in"/>
+      <node ref="U1" pin="C31" pinfunction="VDDH" pintype="power_in"/>
+      <node ref="U1" pin="C34" pinfunction="VDDH" pintype="power_in"/>
+      <node ref="U1" pin="C36" pinfunction="VDDH" pintype="power_in"/>
+      <node ref="U1" pin="C39" pinfunction="VDDH" pintype="power_in"/>
+      <node ref="U1" pin="C6" pinfunction="VDDP" pintype="power_in"/>
+      <node ref="U1" pin="C8" pinfunction="VDDP" pintype="power_in"/>
+    </net>
+    <net code="3" name="/G0_TPIAN">
+      <node ref="J1" pin="R3" pinfunction="TD1-" pintype="passive"/>
+      <node ref="U1" pin="A39" pinfunction="G0_TPIAN" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/G0_TPIAP">
+      <node ref="J1" pin="R2" pinfunction="TD1+" pintype="passive"/>
+      <node ref="U1" pin="B36" pinfunction="G0_TPIAP" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/G0_TPIBN">
+      <node ref="J1" pin="R5" pinfunction="TD2-" pintype="passive"/>
+      <node ref="U1" pin="A40" pinfunction="G0_TPIBN" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/G0_TPIBP">
+      <node ref="J1" pin="R4" pinfunction="TD2+" pintype="passive"/>
+      <node ref="U1" pin="D4" pinfunction="G0_TPIBP" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/G0_TPICN">
+      <node ref="J1" pin="R7" pinfunction="TD3-" pintype="passive"/>
+      <node ref="U1" pin="A41" pinfunction="G0_TPICN" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/G0_TPICP">
+      <node ref="J1" pin="R6" pinfunction="TD3+" pintype="passive"/>
+      <node ref="U1" pin="B37" pinfunction="G0_TPICP" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/G0_TPIDN">
+      <node ref="J1" pin="R9" pinfunction="TD4-" pintype="passive"/>
+      <node ref="U1" pin="B39" pinfunction="G0_TPIDN" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/G0_TPIDP">
+      <node ref="J1" pin="R8" pinfunction="TD4+" pintype="passive"/>
+      <node ref="U1" pin="B38" pinfunction="G0_TPIDP" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/G1_TPIAN">
+      <node ref="J2" pin="R3" pinfunction="TD1-" pintype="passive"/>
+      <node ref="U1" pin="B40" pinfunction="G1_TPIAN" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/G1_TPIAP">
+      <node ref="J2" pin="R2" pinfunction="TD1+" pintype="passive"/>
+      <node ref="U1" pin="A43" pinfunction="G1_TPIAP" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/G1_TPIBN">
+      <node ref="J2" pin="R5" pinfunction="TD2-" pintype="passive"/>
+      <node ref="U1" pin="A45" pinfunction="G1_TPIBN" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/G1_TPIBP">
+      <node ref="J2" pin="R4" pinfunction="TD2+" pintype="passive"/>
+      <node ref="U1" pin="B41" pinfunction="G1_TPIBP" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/G1_TPICN">
+      <node ref="J2" pin="R7" pinfunction="TD3-" pintype="passive"/>
+      <node ref="U1" pin="A47" pinfunction="G1_TPICN" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/G1_TPICP">
+      <node ref="J2" pin="R6" pinfunction="TD3+" pintype="passive"/>
+      <node ref="U1" pin="B43" pinfunction="G1_TPICP" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/G1_TPIDN">
+      <node ref="J2" pin="R9" pinfunction="TD4-" pintype="passive"/>
+      <node ref="U1" pin="B45" pinfunction="G1_TPIDN" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/G1_TPIDP">
+      <node ref="J2" pin="R8" pinfunction="TD4+" pintype="passive"/>
+      <node ref="U1" pin="B44" pinfunction="G1_TPIDP" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/G2_TPIAN">
+      <node ref="J3" pin="R3" pinfunction="TD1-" pintype="passive"/>
+      <node ref="U1" pin="B46" pinfunction="G2_TPIAN" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/G2_TPIAP">
+      <node ref="J3" pin="R2" pinfunction="TD1+" pintype="passive"/>
+      <node ref="U1" pin="A49" pinfunction="G2_TPIAP" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/G2_TPIBN">
+      <node ref="J3" pin="R5" pinfunction="TD2-" pintype="passive"/>
+      <node ref="U1" pin="A51" pinfunction="G2_TPIBN" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/G2_TPIBP">
+      <node ref="J3" pin="R4" pinfunction="TD2+" pintype="passive"/>
+      <node ref="U1" pin="B47" pinfunction="G2_TPIBP" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/G2_TPICN">
+      <node ref="J3" pin="R7" pinfunction="TD3-" pintype="passive"/>
+      <node ref="U1" pin="A52" pinfunction="G2_TPICN" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/G2_TPICP">
+      <node ref="J3" pin="R6" pinfunction="TD3+" pintype="passive"/>
+      <node ref="U1" pin="B48" pinfunction="G2_TPICP" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/G2_TPIDN">
+      <node ref="J3" pin="R9" pinfunction="TD4-" pintype="passive"/>
+      <node ref="U1" pin="A1" pinfunction="G2_TPIDN" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/G2_TPIDP">
+      <node ref="J3" pin="R8" pinfunction="TD4+" pintype="passive"/>
+      <node ref="U1" pin="D1" pinfunction="G2_TPIDP" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/G3_TPIAN">
+      <node ref="J4" pin="R3" pinfunction="TD1-" pintype="passive"/>
+      <node ref="U1" pin="A14" pinfunction="G3_TPIAN" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/G3_TPIAP">
+      <node ref="J4" pin="R2" pinfunction="TD1+" pintype="passive"/>
+      <node ref="U1" pin="D2" pinfunction="G3_TPIAP" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/G3_TPIBN">
+      <node ref="J4" pin="R5" pinfunction="TD2-" pintype="passive"/>
+      <node ref="U1" pin="A15" pinfunction="G3_TPIBN" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/G3_TPIBP">
+      <node ref="J4" pin="R4" pinfunction="TD2+" pintype="passive"/>
+      <node ref="U1" pin="B13" pinfunction="G3_TPIBP" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/G3_TPICN">
+      <node ref="J4" pin="R7" pinfunction="TD3-" pintype="passive"/>
+      <node ref="U1" pin="B15" pinfunction="G3_TPICN" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/G3_TPICP">
+      <node ref="J4" pin="R6" pinfunction="TD3+" pintype="passive"/>
+      <node ref="U1" pin="B14" pinfunction="G3_TPICP" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/G3_TPIDN">
+      <node ref="J4" pin="R9" pinfunction="TD4-" pintype="passive"/>
+      <node ref="U1" pin="B16" pinfunction="G3_TPIDN" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/G3_TPIDP">
+      <node ref="J4" pin="R8" pinfunction="TD4+" pintype="passive"/>
+      <node ref="U1" pin="A17" pinfunction="G3_TPIDP" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="/LED00">
+      <node ref="J1" pin="L4" pintype="passive"/>
+      <node ref="U1" pin="A4" pinfunction="GPIO16/LED00" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/LED01">
+      <node ref="J1" pin="L2" pintype="passive"/>
+      <node ref="U1" pin="B4" pinfunction="GPIO21/LED01" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/LED02">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U1" pin="B5" pinfunction="GPIO26/LED02/LIGHT" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="/LED10">
+      <node ref="J2" pin="L4" pintype="passive"/>
+      <node ref="U1" pin="A6" pinfunction="GPIO17/LED10/TDO" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="/LED11">
+      <node ref="J2" pin="L2" pintype="passive"/>
+      <node ref="U1" pin="B6" pinfunction="GPIO22/LED11" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="/LED12">
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="U1" pin="B7" pinfunction="GPIO27/LED12" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="/LED20">
+      <node ref="J3" pin="L4" pintype="passive"/>
+      <node ref="U1" pin="A8" pinfunction="GPIO18/LED20/TDI" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="/LED21">
+      <node ref="J3" pin="L2" pintype="passive"/>
+      <node ref="U1" pin="B8" pinfunction="GPIO23/LED21" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="/LED22">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U1" pin="B9" pinfunction="GPIO28/LED22" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="/LED30">
+      <node ref="J4" pin="L4" pintype="passive"/>
+      <node ref="U1" pin="A10" pinfunction="GPIO19/LED30/TMS" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="/LED31">
+      <node ref="J4" pin="L2" pintype="passive"/>
+      <node ref="U1" pin="B10" pinfunction="GPIO24/LED31" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="Earth">
+      <node ref="J1" pin="SH" pinfunction="SH" pintype="passive"/>
+      <node ref="J2" pin="SH" pinfunction="SH" pintype="passive"/>
+      <node ref="J3" pin="SH" pinfunction="SH" pintype="passive"/>
+      <node ref="J4" pin="SH" pinfunction="SH" pintype="passive"/>
+    </net>
+    <net code="47" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="R10" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="R10" pinfunction="GND" pintype="power_in"/>
+      <node ref="J3" pin="R10" pinfunction="GND" pintype="power_in"/>
+      <node ref="J4" pin="R10" pinfunction="GND" pintype="power_in"/>
+      <node ref="J5" pin="A1_B12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J5" pin="B1_A12" pinfunction="GND" pintype="power_in"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="A23" pinfunction="VDDQ" pintype="power_in"/>
+      <node ref="U1" pin="EPAD" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="PGND" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="PAD" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="PGND" pintype="power_in"/>
+      <node ref="Y1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="Y1" pin="4" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="48" name="Net-(J1-CT)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="R1" pinfunction="CT" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(J1-PadL1)">
+      <node ref="J1" pin="L1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(J1-PadL3)">
+      <node ref="J1" pin="L3" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(J2-CT)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J2" pin="R1" pinfunction="CT" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(J2-PadL1)">
+      <node ref="J2" pin="L1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(J2-PadL3)">
+      <node ref="J2" pin="L3" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(J3-CT)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J3" pin="R1" pinfunction="CT" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(J3-PadL1)">
+      <node ref="J3" pin="L1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(J3-PadL3)">
+      <node ref="J3" pin="L3" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(J4-CT)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="J4" pin="R1" pinfunction="CT" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(J4-PadL1)">
+      <node ref="J4" pin="L1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(J4-PadL3)">
+      <node ref="J4" pin="L3" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(J5-CC1)">
+      <node ref="J5" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(J5-CC2)">
+      <node ref="J5" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(J5-SHIELD-PadS1)">
+      <node ref="J5" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J5" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J5" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J5" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(U1A-RCAL)">
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U1" pin="B1" pinfunction="RCAL" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="Net-(U1E-GPIO3{slash}SSDO{slash}UTXD)">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U1" pin="B27" pinfunction="GPIO3/SSDO/UTXD" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="Net-(U1E-GPIO7{slash}MSDO{slash}PWLED)">
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U1" pin="A26" pinfunction="GPIO7/MSDO/PWLED" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="Net-(U1E-GPIO8{slash}MSCK)">
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="U1" pin="D3" pinfunction="GPIO8/MSCK" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="Net-(U1E-GPIO9{slash}MSCS)">
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="U1" pin="A25" pinfunction="GPIO9/MSCS" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="Net-(U1F-HRSTN)">
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="B3" pinfunction="HRSTN" pintype="input"/>
+    </net>
+    <net code="69" name="Net-(U1F-XTAL1{slash}CLK)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="B22" pinfunction="XTAL1/CLK" pintype="input"/>
+      <node ref="Y1" pin="1" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(U1F-XTAL2)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="B23" pinfunction="XTAL2" pintype="output"/>
+      <node ref="Y1" pin="3" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(U1G-VDDA)">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="C17" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="72" name="Net-(U2-BOOST)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="BOOST" pintype="output"/>
+    </net>
+    <net code="73" name="Net-(U2-EN)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="74" name="Net-(U2-SW)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="SW" pintype="power_out"/>
+    </net>
+    <net code="75" name="Net-(U2-Vcc)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="Vcc" pintype="power_out"/>
+    </net>
+    <net code="76" name="Net-(U2-Vfb)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="Vfb" pintype="input"/>
+    </net>
+    <net code="77" name="Net-(U3-EN)">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="78" name="Net-(U3-FB)">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="79" name="Net-(U3-SW)">
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="SW" pintype="power_out"/>
+    </net>
+    <net code="80" name="VBUS">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J5" pin="A4_B9" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J5" pin="B4_A9" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="81" name="unconnected-(J5-DN1-PadA7)">
+      <node ref="J5" pin="A7" pinfunction="DN1" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="unconnected-(J5-DN2-PadB7)">
+      <node ref="J5" pin="B7" pinfunction="DN2" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="unconnected-(J5-DP1-PadA6)">
+      <node ref="J5" pin="A6" pinfunction="DP1" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="unconnected-(J5-DP2-PadB6)">
+      <node ref="J5" pin="B6" pinfunction="DP2" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="unconnected-(J5-SBU1-PadA8)">
+      <node ref="J5" pin="A8" pinfunction="SBU1" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="unconnected-(J5-SBU2-PadB8)">
+      <node ref="J5" pin="B8" pinfunction="SBU2" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="unconnected-(U1B-RESREF-PadB17)">
+      <node ref="U1" pin="B17" pinfunction="RESREF" pintype="output"/>
+    </net>
+    <net code="88" name="unconnected-(U1B-RX0_M-PadB21)">
+      <node ref="U1" pin="B21" pinfunction="RX0_M" pintype="input"/>
+    </net>
+    <net code="89" name="unconnected-(U1B-RX0_P-PadB20)">
+      <node ref="U1" pin="B20" pinfunction="RX0_P" pintype="input"/>
+    </net>
+    <net code="90" name="unconnected-(U1B-TX0_M-PadA19)">
+      <node ref="U1" pin="A19" pinfunction="TX0_M" pintype="output"/>
+    </net>
+    <net code="91" name="unconnected-(U1B-TX0_P-PadB18)">
+      <node ref="U1" pin="B18" pinfunction="TX0_P" pintype="output"/>
+    </net>
+    <net code="92" name="unconnected-(U1C-RGMII5_RXC-PadB32)">
+      <node ref="U1" pin="B32" pinfunction="RGMII5_RXC" pintype="input"/>
+    </net>
+    <net code="93" name="unconnected-(U1C-RGMII5_RXD0-PadB33)">
+      <node ref="U1" pin="B33" pinfunction="RGMII5_RXD0" pintype="input"/>
+    </net>
+    <net code="94" name="unconnected-(U1C-RGMII5_RXD1-PadA36)">
+      <node ref="U1" pin="A36" pinfunction="RGMII5_RXD1" pintype="input"/>
+    </net>
+    <net code="95" name="unconnected-(U1C-RGMII5_RXD2-PadB34)">
+      <node ref="U1" pin="B34" pinfunction="RGMII5_RXD2" pintype="input"/>
+    </net>
+    <net code="96" name="unconnected-(U1C-RGMII5_RXD3-PadB35)">
+      <node ref="U1" pin="B35" pinfunction="RGMII5_RXD3" pintype="input"/>
+    </net>
+    <net code="97" name="unconnected-(U1C-RGMII5_RX_CTL-PadA38)">
+      <node ref="U1" pin="A38" pinfunction="RGMII5_RX_CTL" pintype="input"/>
+    </net>
+    <net code="98" name="unconnected-(U1C-RGMII5_TXC-PadA34)">
+      <node ref="U1" pin="A34" pinfunction="RGMII5_TXC" pintype="output"/>
+    </net>
+    <net code="99" name="unconnected-(U1C-RGMII5_TXD0-PadB29)">
+      <node ref="U1" pin="B29" pinfunction="RGMII5_TXD0" pintype="output"/>
+    </net>
+    <net code="100" name="unconnected-(U1C-RGMII5_TXD1-PadA32)">
+      <node ref="U1" pin="A32" pinfunction="RGMII5_TXD1" pintype="output"/>
+    </net>
+    <net code="101" name="unconnected-(U1C-RGMII5_TXD2-PadB30)">
+      <node ref="U1" pin="B30" pinfunction="RGMII5_TXD2" pintype="output"/>
+    </net>
+    <net code="102" name="unconnected-(U1C-RGMII5_TXD3-PadB31)">
+      <node ref="U1" pin="B31" pinfunction="RGMII5_TXD3" pintype="output"/>
+    </net>
+    <net code="103" name="unconnected-(U1C-RGMII5_TX_CTL-PadB28)">
+      <node ref="U1" pin="B28" pinfunction="RGMII5_TX_CTL" pintype="output"/>
+    </net>
+    <net code="104" name="unconnected-(U1D-GPIO20{slash}LED40{slash}TCK-PadA12)">
+      <node ref="U1" pin="A12" pinfunction="GPIO20/LED40/TCK" pintype="bidirectional"/>
+    </net>
+    <net code="105" name="unconnected-(U1D-GPIO25{slash}LED41-PadB12)">
+      <node ref="U1" pin="B12" pinfunction="GPIO25/LED41" pintype="bidirectional"/>
+    </net>
+    <net code="106" name="unconnected-(U1D-GPIO29{slash}LED32-PadB11)">
+      <node ref="U1" pin="B11" pinfunction="GPIO29/LED32" pintype="bidirectional"/>
+    </net>
+    <net code="107" name="unconnected-(U1D-GPIO30{slash}LED42-PadA13)">
+      <node ref="U1" pin="A13" pinfunction="GPIO30/LED42" pintype="bidirectional"/>
+    </net>
+    <net code="108" name="unconnected-(U1D-TRSTN-PadA2)">
+      <node ref="U1" pin="A2" pinfunction="TRSTN" pintype="input"/>
+    </net>
+    <net code="109" name="unconnected-(U1E-GPIO0{slash}GPC0{slash}EXINT0{slash}MMDIO-PadB25)">
+      <node ref="U1" pin="B25" pinfunction="GPIO0/GPC0/EXINT0/MMDIO" pintype="bidirectional"/>
+    </net>
+    <net code="110" name="unconnected-(U1E-GPIO1{slash}GPC1{slash}EXINT1{slash}MMDC-PadA27)">
+      <node ref="U1" pin="A27" pinfunction="GPIO1/GPC1/EXINT1/MMDC" pintype="bidirectional"/>
+    </net>
+    <net code="111" name="unconnected-(U1E-GPIO2{slash}SSDI{slash}URXD-PadA30)">
+      <node ref="U1" pin="A30" pinfunction="GPIO2/SSDI/URXD" pintype="bidirectional"/>
+    </net>
+    <net code="112" name="unconnected-(U1E-GPIO4{slash}SSCK{slash}SMDC{slash}LIGHT-PadA28)">
+      <node ref="U1" pin="A28" pinfunction="GPIO4/SSCK/SMDC/LIGHT" pintype="bidirectional"/>
+    </net>
+    <net code="113" name="unconnected-(U1E-GPIO5{slash}SSCS{slash}SMDIO{slash}PWLED-PadB26)">
+      <node ref="U1" pin="B26" pinfunction="GPIO5/SSCS/SMDIO/PWLED" pintype="bidirectional"/>
+    </net>
+    <net code="114" name="unconnected-(U1E-GPIO6{slash}MSDI{slash}LIGHT-PadB24)">
+      <node ref="U1" pin="B24" pinfunction="GPIO6/MSDI/LIGHT" pintype="bidirectional"/>
+    </net>
+    <net code="115" name="unconnected-(U1F-NC-PadA21)">
+      <node ref="U1" pin="A21" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(U1F-NC-PadB2)">
+      <node ref="U1" pin="B2" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(U3-NC-Pad4)">
+      <node ref="U3" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(U3-PG-Pad8)">
+      <node ref="U3" pin="8" pinfunction="PG" pintype="open_collector"/>
+    </net>
+  </nets>
+</export>
